@@ -115,7 +115,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: "github",
-        link: "https://github.com/Kele-Bingtang/vitepress-theme-teek",
+        link: "https://github.com/teekhub/vitepress-theme-teek",
       },
     ],
     search: {
@@ -124,7 +124,7 @@ export default defineConfig({
     editLink: {
       text: "在 GitHub 上编辑此页",
       pattern:
-        "https://github.com/Kele-Bingtang/vitepress-theme-teek/edit/master/docs/:path",
+        "https://github.com/teekhub/vitepress-theme-teek/edit/master/docs/:path",
     },
   },
   vite: {
